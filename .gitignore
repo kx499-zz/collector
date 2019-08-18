@@ -1,6 +1,7 @@
 html/*
 visits/*
 kits/*
+!*.gitkeep
 *.log
 *.pyc
 kits_processed
