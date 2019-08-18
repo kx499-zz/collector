@@ -1,0 +1,7 @@
+html/*
+visits/*
+kits/*
+*.log
+*.pyc
+kits_processed
+urls_processed
